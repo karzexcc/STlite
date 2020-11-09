@@ -1,4 +1,4 @@
 # STlite
 - [x] Deque
-- [ ] map
+- [x] map
 - [ ] BTree
